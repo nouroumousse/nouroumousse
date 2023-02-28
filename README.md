@@ -1,6 +1,10 @@
 ### Hi there 👋
 I'm Nour!
 
+An iconist, illustrator & Branding Design Consultant, and I'm learning to code at the moment,
+
+You'll find me by @nouroumousse on whatever platform you're using ( most of them )
+
 <!--
 **nouroumousse/nouroumousse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
