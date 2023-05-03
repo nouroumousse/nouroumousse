@@ -5,6 +5,7 @@ An iconist, illustrator & Branding Design Consultant, and I'm learning to code a
 
 You'll find me by @nouroumousse on whatever platform you're using ( most of them )
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7HNDK2)
 <!--
 **nouroumousse/nouroumousse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
