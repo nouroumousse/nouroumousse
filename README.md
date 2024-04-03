@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm Nour!
 
 An iconist, illustrator & Branding Design Consultant, and I'm learning to code at the moment,
