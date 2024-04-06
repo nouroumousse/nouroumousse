@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm Nour!
 
-An iconist, illustrator & Branding Design Consultant, and I'm learning to code at the moment,
+Branding consultant, specializing in brand identity and development, type design, minimalist illustration, and icon design. I'm learning to code at the moment,
 
 You'll find me by @nouroumousse on whatever platform you're using ( most of them )
 
